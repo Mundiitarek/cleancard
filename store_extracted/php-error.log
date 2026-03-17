@@ -1,0 +1,27 @@
+[11-Mar-2026 05:37:48 UTC] Uncaught Exception: dir() expects at least 1 argument, 0 given in /homeadditional/smm2355/ahmed-card.online/admin.php:297
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(297): dir()
+#1 {main}
+[11-Mar-2026 05:38:28 UTC] Uncaught Exception: Undefined array key "total_orders" in /homeadditional/smm2355/ahmed-card.online/admin.php:584
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(584): {closure}(2, 'Undefined array...', '/homeadditional...', 584)
+#1 {main}
+[11-Mar-2026 05:39:23 UTC] Uncaught Exception: Undefined array key "total_revenue" in /homeadditional/smm2355/ahmed-card.online/admin.php:591
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(591): {closure}(2, 'Undefined array...', '/homeadditional...', 591)
+#1 {main}
+[11-Mar-2026 05:39:36 UTC] Uncaught Exception: Array to string conversion in /homeadditional/smm2355/ahmed-card.online/admin.php:755
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(755): {closure}(2, 'Array to string...', '/homeadditional...', 755)
+#1 {main}
+[11-Mar-2026 05:40:04 UTC] Uncaught Exception: Undefined array key "total_revenue" in /homeadditional/smm2355/ahmed-card.online/admin.php:591
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(591): {closure}(2, 'Undefined array...', '/homeadditional...', 591)
+#1 {main}
+[11-Mar-2026 05:40:37 UTC] Uncaught Exception: Undefined array key "total_products" in /homeadditional/smm2355/ahmed-card.online/admin.php:598
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(598): {closure}(2, 'Undefined array...', '/homeadditional...', 598)
+#1 {main}
+[11-Mar-2026 05:40:58 UTC] Uncaught Exception: Undefined array key "total_customers" in /homeadditional/smm2355/ahmed-card.online/admin.php:605
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(605): {closure}(2, 'Undefined array...', '/homeadditional...', 605)
+#1 {main}
+[11-Mar-2026 05:41:09 UTC] Uncaught Exception: Undefined array key "customer_total" in /homeadditional/smm2355/ahmed-card.online/admin.php:605
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(605): {closure}(2, 'Undefined array...', '/homeadditional...', 605)
+#1 {main}
+[11-Mar-2026 05:41:11 UTC] Uncaught Exception: Undefined array key "customer_total" in /homeadditional/smm2355/ahmed-card.online/admin.php:605
+#0 /homeadditional/smm2355/ahmed-card.online/admin.php(605): {closure}(2, 'Undefined array...', '/homeadditional...', 605)
+#1 {main}
